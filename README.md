@@ -88,3 +88,4 @@ Can you see why we got the test result that we did?
 You challenge is to write some code in the `sayHello` function in `src/strings.js` that will make the test pass. 🚨*You should not update the tests* 🚨
 # javascript-katas-refresh
 # javascript-katas-refresh
+# JS-katas
