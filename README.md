@@ -89,3 +89,4 @@ You challenge is to write some code in the `sayHello` function in `src/strings.j
 # javascript-katas-refresh
 # javascript-katas-refresh
 # JS-katas
+# JS-katas
